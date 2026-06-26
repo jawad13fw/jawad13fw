@@ -14,6 +14,9 @@
   <a href="https://github.com/jawad13fw" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-jawad13fw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/muhammad-jawad--" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Jawad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
@@ -162,6 +165,9 @@ I'm a passionate **Full-Stack Developer** who loves building real-world applicat
   
   <a href="https://github.com/jawad13fw" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-jawad--" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
